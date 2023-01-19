@@ -19,10 +19,35 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<code><img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fjava-logo-png-transparent.png&f=1&nofb=1"></code>
-<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
-<code><img width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img width="40" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg"></code>
+- **Programming Languages**:
+
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+  ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
+
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+   ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
+
+<br>
+    
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![IntelliJ](https://img.shields.io/badge/intellij-%234285F4.svg?style=for-the-badge&logo=intellij&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![PyCharm](https://img.shields.io/badge/pycharm-%234285F4.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+    ![Eclipse](https://img.shields.io/badge/eclipse-%234285F4.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+    ![NetBeans](https://img.shields.io/badge/netbeans-%234285F4.svg?style=for-the-badge&logo=netbeans&logoColor=white)
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black)
 
 <br>
 
@@ -37,3 +62,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatuos&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Hatuos"/>
 
 </a>
+
+
