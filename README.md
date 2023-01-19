@@ -27,15 +27,11 @@
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
   ![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 
-
-<br>   
     
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
    ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
-
-<br>
     
 
 - **Softwares and Tools**:
