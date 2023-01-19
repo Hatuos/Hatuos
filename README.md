@@ -1,13 +1,16 @@
 ### I'm Hatuos a computer engineering student in a chaotic and changing world, nice to meet you!💻
 
-![presentationGif](https://github.com/Hatuos/Hatuos/blob/main/presentationGif.gif)
+ ## <picture><img src = "https://github.com/Hatuos/Hatuos/blob/main/aboutMe.gif?raw=true" width = 50px></picture> **About me**
+ 
+ <picture> <img align="right" src="https://github.com/Hatuos/Hatuos/blob/main/presentationGif.gif?raw=true" width = 365></picture>
+
+<br>
   
-- 🔭 I’m currently working on the design of ontologies to generate knowledge bases.
-- 🌱 I’m currently learning Python and data science related things.
-- 👯 I’m looking to collaborate on whatever helps me learn, if you pay me even better.
-- 💬 Ask me about whatever you want related to computer engineering, I may not know how to answer you but I'm sure I'll learn something.
-- 😄 Pronouns: We are not politically correct here...
-- ⚡ Fun fact: I don't like MATLAB
+- I’m currently working on the design of ontologies to generate knowledge bases.
+- I’m currently learning Python and data science related things.
+- I’m looking to collaborate on whatever helps me learn, if you pay me even better.
+- Ask me about whatever you want related to computer engineering, I may not know how to answer you but I'm sure I'll learn something.
+- Fun fact: I don't like MATLAB
 
 <br/>  
 
