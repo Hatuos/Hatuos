@@ -1,5 +1,7 @@
-### <div align="center">I'm Hatuos a computer engineering student in a chaotic and changing world, nice to meet you!💻  </div> 
+### I'm Hatuos a computer engineering student in a chaotic and changing world, nice to meet you!💻
 
+![presentationGif](https://github.com/Hatuos/Hatuos/blob/main/presentationGif.gif)
+  
 - 🔭 I’m currently working on the design of ontologies to generate knowledge bases.
 - 🌱 I’m currently learning Python and data science related things.
 - 👯 I’m looking to collaborate on whatever helps me learn, if you pay me even better.
