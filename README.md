@@ -5,16 +5,21 @@
 Fullstack developer, although I like more the backend. I'm looking to collaborate in whatever helps me to learn. Ask me about anything you want related to computer engineering, I may not know how to answer you but I will surely learn something.
 
 <p align="left">
+    <a href="https://hatuos.github.io/portfolio/">
+        <img alt="portfolio" title="Check my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-blue?style=for-the-badge&logo=book&logoColor=white"/>
+    </a>
     <a href="https://github.com/Hatuos?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hatuos?color=158949&labelColor=20c46a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <a href="https://github.com/Hatuos?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hatuos?color=a9a717&style=for-the-badge&labelColor=c6c31c&logo=star"/></a>
+        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hatuos?color=158949&labelColor=20c46a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Hatuos?tab=repositories sort=stargazers">
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hatuos?color=a9a717&style=for-the-badge&labelColor=c6c31c&logo=star"/>
+    </a>
 </p>
 
 
 ---
 
-## Languages and Tools
+## 💻 Languages and Tools
 
 ### Backend Development
 
@@ -26,7 +31,7 @@ Fullstack developer, although I like more the backend. I'm looking to collaborat
 
 <br/>
 
-### Frontend development
+### Frontend Development
 
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -38,19 +43,29 @@ Fullstack developer, although I like more the backend. I'm looking to collaborat
 
 <br/>
 
-### Version control
+### Relational Databases
 
-<img align="left" alt="Git" width="35px" 
-style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="35px" 
-style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitLab" width="35px" 
-style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+<img align="left" alt="Oracle" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+<img align="left" alt="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+<br/>
+
+### Version Control
+
+<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitLab" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 
 <br/> <br/>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Analytics
 
-![Hatuos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hatuos&show_icons=true&theme=gruvbox)
+<p align="center">
+    <a href="https://github.com/Hatuos">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hatuos&show_icons=true&theme=gruvbox"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hatuos&layout=compact&langs_count=8&theme=gruvbox"/>
+    </a>
+</p>
