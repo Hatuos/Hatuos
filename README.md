@@ -8,9 +8,6 @@ Fullstack developer, although I like more the backend. I'm looking to collaborat
     <a href="https://hatuos.github.io/portfolio/">
         <img alt="portfolio" title="Check my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-blue?style=for-the-badge&logo=book&logoColor=white"/>
     </a>
-    <a href="https://github.com/Hatuos?tab=followers">
-        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Hatuos?color=158949&labelColor=20c46a&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
     <a href="https://github.com/Hatuos?tab=repositories sort=stargazers">
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hatuos?color=a9a717&style=for-the-badge&labelColor=c6c31c&logo=star"/>
     </a>
