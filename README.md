@@ -2,14 +2,11 @@
 
 **`Software Engineer (Developer)`**
 
-Fullstack developer, although I like more the backend. I'm looking to collaborate in whatever helps me to learn. Ask me about anything you want related to computer engineering, I may not know how to answer you but I will surely learn something.
+Fullstack developer, although I like more the backend. I'm looking to collaborate in whatever helps me to learn. Ask me about anything you want related to computer engineering, I may not know the answer you but I will surely learn something.
 
 <p align="left">
-    <a href="https://hatuos.github.io/portfolio/">
+    <a href="https://hatuos.github.io/portfolio/" target="_blank" rel="noreferrer noopener">
         <img alt="portfolio" title="Check my portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-blue?style=for-the-badge&logo=book&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Hatuos?tab=repositories sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hatuos?color=a9a717&style=for-the-badge&labelColor=c6c31c&logo=star"/>
     </a>
 </p>
 
